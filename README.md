@@ -2,7 +2,7 @@
 
 <style>
 body * {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif !important;
 }
 </style>
 
