@@ -6,12 +6,14 @@ body * {
 }
 </style>
 
-# Interactive Drones: Challenges and Potentials, Design and Engineering, Machines and Humanities
+---
+title:  Interactive Drones: Challenges and Potentials, Design and Engineering, Machines and Humanities
+---
 
-International workshop on Human-Drone Interaction
+*International workshop on Human-Drone Interaction*
 
-CHI 2020 
-Honolulu, Hawaiʻi, USA
+*CHI 2020*<br>
+*Honolulu, Hawaiʻi, USA*
 
 In the last years, the adoption rate of personal and commercial drones has exponentially increased. This rapid growth is both exciting and frightening. On the one hand, drones are presenting new opportunities, with applications ranging from entertainment to delivery, supporting people with special needs, sports, pedestrian guidance, agriculture, and even search-and-rescue. On the other hand, many negative issues are arising around the adoption of drones and what it means to have them in our environments. The success and acceptability of this technology will depend on how well it can be used, integrated, and made acceptable to people. Many of these challenges fall in the realm of research in human-computer and human-robot interaction.
 
