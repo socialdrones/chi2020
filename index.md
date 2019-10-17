@@ -4,3 +4,9 @@ title: iHDI 2020
 icon: fa-home
 order: 1
 ---
+
+<style>
+  body p {
+  text-align: justify;
+  }
+</style>
