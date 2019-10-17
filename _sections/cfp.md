@@ -1,7 +1,7 @@
 ---
 title: Call for Papers
 icon: fa-eye
-order: 1
+order: 3
 ---
 
 Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications such as exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
