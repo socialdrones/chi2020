@@ -1,31 +1,25 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap&subset=latin-ext" rel="stylesheet">
 
 <style>
-body * {
-font-family: 'Open Sans', sans-serif !important;
-}
+  body * {
+  font-family: 'Open Sans', sans-serif !important;
+  }
   
-.abstract {
-background-color: #eee;
-padding: 2em;
-}
-
-.cfp {
-background-color: #eee;
-padding: 2em;
-}
+  header h1 {
+  font-size: 2em;
+  }
+  
+  header h2 {
+  font-size: 1.5em;
+  }
+  
+  .greybox {
+  background-color: #eee;
+  padding: 2em;
+  }
 </style>
 
----
-title:  iHDI: Interdisciplinary Workshop on Human-Drone Interaction
----
-
-*iHDI: Interdisciplinary workshop on Human-Drone Interaction*
-
-*CHI 2020*<br>
-*Honolulu, Hawaiʻi, USA*
-
-<p class="abstract">
+<p class="greybox">
 Human-drone interaction (HDI) is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from a wealth of disciplines can inform the design and scholarship of HDI, and interdisciplinary communication -- between design, engineering, social sciences, and humanities -- is essential to this end. The Interdisciplinary Workshop on Human-Drone Interaction (iHDI) aims to bring together diverse perspectives; advancing HDI and its scholarship through a rich variety of participants and hands-on activities where an assortment of research, design, and prototyping methods are deployed. The workshop intends to serve as a platform for a diverse community that continuously builds on each other's methods and philosophies, towards results that *take off*.
 </p>
 
@@ -45,7 +39,7 @@ Current HDI research field builds on a diverse motivations and methodologies, wi
 
 **Florian 'Floyd' Mueller** is a Professor at RMIT University, where he directs the Exertion Games Lab. His research straddles the intersection of human-computer interaction, the body, and gaming; including the use of drones in exercise and recreation.
 
-<div class="cfp" markdown="1">
+<div class="greybox" markdown="1">
 # Call for papers
 
 Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications such as exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
