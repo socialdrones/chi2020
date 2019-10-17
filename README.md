@@ -45,7 +45,7 @@ Current HDI research field builds on a diverse motivations and methodologies, wi
 
 **Florian 'Floyd' Mueller** is a Professor at RMIT University, where he directs the Exertion Games Lab. His research straddles the intersection of human-computer interaction, the body, and gaming; including the use of drones in exercise and recreation.
 
-<div class="cfp">
+<div class="cfp" markdown="1">
 # Call for papers
 
 Drones are becoming ubiquitous. Current applications include logistics, construction, security, emergencies, and photography. Emerging applications such as exercise, companionship, and tangible user interfaces are active research topics within the CHI community.
