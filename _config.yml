@@ -4,6 +4,6 @@ description: at CHI 2020, Honolulu, Hawaiʻi, USA
 # theme: jekyll-theme-architect
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
-
+avatar: img/avatar.png
 baseurl: "/"
 url: ""
