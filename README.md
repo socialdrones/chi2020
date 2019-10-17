@@ -1,7 +1,8 @@
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap&subset=latin-ext" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap&subset=latin-ext" rel="stylesheet"> -->
 
+<!--  
 <style>
-  body * {
+ body * {
   font-family: 'Open Sans', sans-serif !important;
   }
   
@@ -16,8 +17,9 @@
   .greybox {
   background-color: #eee;
   padding: 2em;
-  }
+  } 
 </style>
+-->
 
 <p class="greybox">
 Human-drone interaction (HDI) is becoming an ubiquitous topic in daily life, and a rising research topic within CHI. Knowledge from a wealth of disciplines can inform the design and scholarship of HDI, and interdisciplinary communication -- between design, engineering, social sciences, and humanities -- is essential to this end. The Interdisciplinary Workshop on Human-Drone Interaction (iHDI) aims to bring together diverse perspectives; advancing HDI and its scholarship through a rich variety of participants and hands-on activities where an assortment of research, design, and prototyping methods are deployed. The workshop intends to serve as a platform for a diverse community that continuously builds on each other's methods and philosophies, towards results that *take off*.
