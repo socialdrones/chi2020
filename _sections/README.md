@@ -1,6 +1,5 @@
 ---
 title: Intro
-auto-header: none
 icon: fa-home
 order: 1
 ---
