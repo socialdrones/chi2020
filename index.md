@@ -8,5 +8,6 @@ order: 1
 <style>
   body p {
   text-align: justify;
+  font-size: 80%;
   }
 </style>
