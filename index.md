@@ -10,7 +10,7 @@ order: 1
     color: #333;
   }
   
-  #main>section.shade-four, #main article.shade-two {
+  #main>section.shade-two, #main article.shade-two {
     background-color: #ggg;
   }
   
