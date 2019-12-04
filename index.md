@@ -6,6 +6,10 @@ order: 1
 ---
 
 <style>
+  #body {
+    color: #333;
+  }
+  
   #main>section.shade-four, #main article.shade-two {
     background-color: #ggg;
   }
