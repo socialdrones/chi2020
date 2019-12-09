@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: "iHDI: Interdisciplinary Workshop on Human-Drone Interaction"
 icon: fa-eye
 order: 1
 ---
