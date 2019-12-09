@@ -2,7 +2,8 @@ title: "iHDI"
 subtitle: at CHI 2020
 logo: img/avatar.png
 avatar: img/avatar.png
-remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+remote_theme: andrewbanchich/forty-jekyll-theme
+# remote_theme: chrisbobbe/jekyll-theme-prologue
+# collections: [sections]
 baseurl: "/"
 url: ""
