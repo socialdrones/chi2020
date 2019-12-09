@@ -1,6 +1,6 @@
 ---
 layout: home
-title: iHDI xxx
+title: iHDI
 icon: fa-home
 order: 1
 ---
@@ -8,6 +8,10 @@ order: 1
 <style>
   body {
     color: #333;
+  }
+  
+  #main>section#ihdi {
+    display: none
   }
   
   #main>section.shade-two, #main article.shade-two {
