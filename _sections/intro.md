@@ -1,5 +1,6 @@
 ---
 title: Interdisciplinary Workshop on Human-Drone Interaction
+icon: fa-home
 order: 1
 ---
 
