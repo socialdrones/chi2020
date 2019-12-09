@@ -33,7 +33,8 @@ order: 1
   
   body p,
   header nav ul li,
-  header nav ul li * {
+  header nav ul li a,
+  header nav ul li a span {
     line-height: 120%
   }
   
