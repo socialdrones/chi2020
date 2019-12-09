@@ -29,7 +29,7 @@ order: 1
   body p {
     text-align: justify;
     font-size: 80%;
-    line-height: 100%;
+    line-height: 120%;
   }
   
   #logo p {
