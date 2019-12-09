@@ -10,7 +10,8 @@ order: 1
     color: #333;
   }
   
-  #main>section#ihdi {
+  #main>section#ihdi,
+  #header>nav li a#ihdi {
     display: none
   }
   
