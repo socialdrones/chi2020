@@ -6,7 +6,7 @@ order: 1
 ---
 
 <style>
-  #body {
+  body {
     color: #333;
   }
   
