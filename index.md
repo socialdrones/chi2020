@@ -1,6 +1,6 @@
 ---
 layout: home
-title: iHDI
+title: iHDI: Interdisciplinary Workshop onHuman-Drone Interaction
 icon: fa-home
 order: 1
 ---
@@ -26,4 +26,10 @@ order: 1
     text-align: justify;
     font-size: 80%;
   }
+  
+  #logo p {
+    text-align: right;
+  }
+  
+  
 </style>
