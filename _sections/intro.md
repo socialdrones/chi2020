@@ -18,7 +18,7 @@ order: 1
       </p>
     </td>
     <td>
-      <img src="img/clouds.jpg" width="200">
+      <img src="img/clouds.jpg" width="320">
     </td>
   </tr>
 </table>
