@@ -1,7 +1,6 @@
 ---
 layout: home
 title: iHDI
-icon: fa-home
 order: 1
 ---
 
