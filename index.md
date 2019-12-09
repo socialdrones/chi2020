@@ -1,6 +1,6 @@
 ---
 layout: home
-title: iHDI: Interdisciplinary Workshop onHuman-Drone Interaction
+title: iHDI: Interdisciplinary Workshop on Human-Drone Interaction
 icon: fa-home
 order: 1
 ---
