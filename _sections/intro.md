@@ -18,7 +18,7 @@ order: 1
       </p>
     </td>
     <td>
-      <img src="img/clouds.jpg">
+      <img src="ihdi2020/img/clouds.jpg">
     </td>
   </tr>
 </table>
