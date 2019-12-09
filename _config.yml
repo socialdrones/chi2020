@@ -7,3 +7,7 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 # collections: [sections]
 baseurl: "/"
 url: ""
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
