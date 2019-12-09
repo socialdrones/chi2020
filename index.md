@@ -29,7 +29,12 @@ order: 1
   body p {
     text-align: justify;
     font-size: 80%;
-    line-height: 120%;
+  }
+  
+  body p,
+  header nav ul li,
+  header nav ul li * {
+    line-height: 120%
   }
   
   #logo p {
