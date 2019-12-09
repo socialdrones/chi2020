@@ -11,7 +11,7 @@ order: 1
   }
   
   #main>section#ihdi,
-  #header>nav ul li a#ihdi {
+  #header nav ul li a#ihdi {
     display: none
   }
   
