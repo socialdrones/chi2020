@@ -1,5 +1,5 @@
 ---
-title: "iHDI: Interdisciplinary Workshop on Human-Drone Interaction"
+title: Interdisciplinary Workshop on Human-Drone Interaction
 order: 1
 ---
 
